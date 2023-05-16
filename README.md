@@ -10,7 +10,7 @@
 </p>
  
 <p align="left">
-  💼 Currently work at Tecff Soluções Inovadoras, I develop back-end with Python and Shell using a Linux based OS.
+  💼 Currently work at Global Hitss, I develop back-end with Python and Shell using a Linux based OS.
 </p>
 
 <p align="left">
